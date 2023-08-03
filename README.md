@@ -6,7 +6,7 @@
 
 Esse é um projeto web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
-Foi adicionado posteriormente um menu de midias sociais utilizando JavaScript. Créditos à @coding.stella.
+Foi adicionado posteriormente um menu de midias sociais utilizando JavaScript. Créditos à [@coding.stella](https://bento.me/codingstella)
 
 ## 🚀 Tecnologias
 
