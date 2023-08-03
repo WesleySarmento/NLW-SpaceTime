@@ -11,9 +11,13 @@ Esse é um projeto web Responsivo de uma cápsula do tempo para exibir memórias
 Esse projeto foi desenvolvido durante o NLW: SpaceTime da Rocketseat com as seguintes tecnologias:
 
 -HTML
+
 -CSS
+
 -GIT
+
 -GITHUB
+
 -FIGMA
 
 ## 🏷️ Layout
